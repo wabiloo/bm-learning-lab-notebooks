@@ -4,7 +4,7 @@ numpy
 pandas
 rise
 vdom
-dotenv
+python-dotenv
 jupyter_contrib_nbextensions
 jupyterlab_launcher>=0.5.0
 bitmovin-api-sdk
