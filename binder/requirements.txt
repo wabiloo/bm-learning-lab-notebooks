@@ -1,0 +1,10 @@
+traitlets>=4.3.1
+ipython
+numpy
+pandas
+rise
+vdom
+dotenv
+jupyter_contrib_nbextensions
+jupyterlab_launcher>=0.5.0
+bitmovin-api-sdk
