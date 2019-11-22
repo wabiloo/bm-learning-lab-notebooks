@@ -1,6 +1,6 @@
 # Bitmovin Learning Labs - Encoding
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-examples/jupyterlab/master?urlpath=lab/tree/index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wabiloo/bm-learning-lab-notebooks/master)
 
 This repository contains notebooks that are used to teach how to use the Bitmovin Encoding solution 
 
