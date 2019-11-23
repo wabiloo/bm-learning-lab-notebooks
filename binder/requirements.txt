@@ -1,10 +1,12 @@
 traitlets>=4.3.1
 ipython
+ipywidgets>=7.5
 numpy
 pandas
 rise
 vdom
 python-dotenv
 jupyter_contrib_nbextensions
+jupyterlab>=1.2.3
 jupyterlab_launcher>=0.5.0
 git+https://github.com/bitmovin/bitmovin-api-sdk-python.git
