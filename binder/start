@@ -1,3 +1,6 @@
 #!/bin/bash
+sudo git clone https://github.com/wabiloo/bm-learning-lab-notebooks.git git-sources
+sudo cp -r git-sources/notebooks/* notebooks
+sudo rm -rf git-sources
 
 exec "$@"
